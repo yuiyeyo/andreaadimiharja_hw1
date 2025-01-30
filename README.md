@@ -19,20 +19,10 @@ Web can be visited at: https://yuiyeyo.github.io/andreaadimiharja_hw1/
 
 - **style.css**: 
    - Styles for the `index.html` page.
-   - Customizes font sizes, layout, and design elements like colors, margins, and text alignments.
 
 - **recipe.css**:
    - Styles for the `pie.html` page.
-   - Customizes the layout for recipe instructions, ingredients, and images.
 
-- **script.js**:
-   - External JavaScript file (not included in this README) that may be used for additional functionality.
-
-## Setup
-
-1. Clone the repository to your local machine or download the files.
-2. Open the `index.html` or `pie.html` file in your preferred web browser to view the pages.
-3. Modify or add content as needed for your assignment.
 
 
 ## Technologies Used
