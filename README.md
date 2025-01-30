@@ -2,6 +2,8 @@
 
 This web application is designed as part of the **CSCV 337 Web Programming Assignment**. It provides a simple, interactive platform where users can explore and customize pie recipes using Granny's Pie base products.
 
+Web can be visited at: https://yuiyeyo.github.io/andreaadimiharja_hw1/
+
 ## File Overview
 
 - **index.html**: 
